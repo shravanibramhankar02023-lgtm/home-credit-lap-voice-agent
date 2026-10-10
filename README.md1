@@ -1,0 +1,43 @@
+# Home Credit LAP Qualification – AI Voice Agent
+
+## Project Overview
+This project uses Retell AI to simulate a voice agent for preliminary qualification of existing Home Credit customers interested in a Loan Against Property (LAP).
+
+## Objectives
+- Explain the preliminary LAP offer to customers.
+- Collect property and applicant eligibility details.
+- Identify cases that do not meet the preliminary criteria.
+- Handle loan amount limits and callback requests.
+- Route existing LAP or EMI-reduction requests to the appropriate specialist.
+
+## Tools and Technologies
+- Retell AI
+- AI voice agent and prompt configuration
+- GitHub for project documentation
+
+## Preliminary Eligibility Criteria
+- Eligible property types: residential, commercial, and industrial.
+- Agricultural property: not eligible.
+- Sole or joint ownership: accepted.
+- Original property documents must be available.
+- Maximum offer amount: ₹75 lakh.
+- Income must be received through a bank.
+- Eligible tenure: 3–15 years.
+- Existing LAP or EMI-reduction requests: specialist follow-up.
+
+## Testing
+The planned test scenarios cover:
+1. Successful preliminary qualification.
+2. Agricultural property rejection.
+3. Loan amount limit.
+4. Busy customer and callback request.
+5. Missing original documents.
+6. Cash-only income.
+7. Existing LAP or EMI-reduction request.
+8. Invalid loan tenure.
+
+## Important Note
+This agent supports preliminary qualification only. It does not guarantee loan approval, and final eligibility is subject to Home Credit's actual verification and lending policies.
+
+## Project Evidence
+Screenshots and a demonstration recording can be linked here once uploaded.
